@@ -38,5 +38,5 @@ I turn coffee into complex systems and "it worked on my machine" into "it works 
 ---
 
 <p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NaumanMoazzam&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NaumanMoazzam&theme=tokyonight&hide_border=true" width="60%" />
 </p>
