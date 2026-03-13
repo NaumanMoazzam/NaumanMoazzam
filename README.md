@@ -15,23 +15,15 @@ I turn coffee into complex systems and "it worked on my machine" into "it works 
 
 | Category | Tools of the Trade |
 | :--- | :--- |
-| **Frontend** | `React` `Next.js` `TypeScript` `Tailwind` `Three.js` |
+| **Frontend** | `Next.js` `TypeScript` `Tailwind` `Three.js` |
 | **Backend** | `Node.js` `NestJS` `Django` `FastAPI` `PostgreSQL` |
 | **Cloud/DevOps** | `AWS` `Azure` `Docker` `Nginx` `Firebase` |
 | **Design** | `Figma` `Photoshop` `Ant Design` |
 
 ---
 
-## 📊 Git Insights 
-*(Basically proof that I do more than just commit 'fixed typo')*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaumanMoazzam&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaumanMoazzam&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NaumanMoazzam&theme=tokyonight&hide_border=true" width="89%" />
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NaumanMoazzam&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
